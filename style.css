@@ -1,0 +1,12 @@
+.conlog{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.conlog button {
+  display: block;
+  margin: 15px auto; /* otomatis ke tengah */
+  padding: 8px 20px;
+}
